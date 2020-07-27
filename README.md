@@ -7,11 +7,12 @@ I am Khalid Oukssim,currently pursuing my bachelor's degree majoring in computer
 [![Youtube Badge](https://img.shields.io/badge/-KhalidOukssim-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCvJJUdsXi_WNoMqfYDcigxg)](https://www.youtube.com/channel/UCvJJUdsXi_WNoMqfYDcigxg)
 [![Gmail Badge](https://img.shields.io/badge/-khalid.oukssim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khalid.oukssim@gmail.com)](mailto:khalid.oukssim@gmail.com)
 
-#### I'm a Full-Stack Developer working in Lisbon, Portugal.
+#### I'm a Full-Stack Developer.
 
 - 🏢 I'm daily working on **New Projects**
 - 🌍 I'm mostly active within the **Flutter Community**
 - 🌱 Learning all about **PWA**
+- 🌍 Interested in **AI & Robotics**
 - ⚡️ Fun fact: I'm a huge fan of Game Of Thrones
 
 ## ⚡ Technologies
