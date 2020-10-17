@@ -13,7 +13,7 @@ I am Khalid Oukssim,currently pursuing my bachelor's degree majoring in computer
 - 🌍 I'm mostly active within the **Flutter Community**
 - 🌱 Learning all about **PWA**
 - 🌍 Interested in **AI & Robotics**
-- ⚡️ Fun fact: I'm a huge fan of Game Of Thrones
+- ⚡️ Fun fact: I'm a huge fan of Silicon Valley
 
 ## ⚡ Technologies
 
